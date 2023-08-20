@@ -1,8 +1,11 @@
 # `@labXD/gustXD`
 
-**gustXD** is a design system and component library used in **labXD** projects.
+**gustXD** is a tailwind design system and component library used in **labXD** projects.
 It is meant extend your Tailwind setup. Install, point, and start using the
 components.
+
+- website built with `docusaurus`.
+- component library built with `tailwind` and `tsdx`.
 
 ## Installation
 
@@ -76,8 +79,3 @@ components, as well as on its own for more customization.
 
 @import "@labxd/gustxd/styles.css";
 ```
-
-| What             | Where                                                              |
-| ---------------- | ------------------------------------------------------------------ |
-| labXD the parent | [https://www.labxd.com](https://www.labxd.com)                     |
-| GitHub Repo      | [https://github.com/labXD/gustXD](https://github.com/labXD/gustXD) |

@@ -93,9 +93,3 @@ components, as well as on its own for more customization.
 @tailwind utilities; */
 @import "@labxd/gustxd/styles.css";
 ```
-
-That's it! You are now ready to use gustXD components.
-
-| What        | Where                                                              |
-| ----------- | ------------------------------------------------------------------ |
-| GitHub Repo | [https://github.com/labXD/gustXD](https://github.com/labXD/gustXD) |
